@@ -786,7 +786,7 @@
 <details>
    <summary><span style="border-bottom:0.05em solid"><strong>Heap 메모리는 무엇이고 사용하는 이유는 무엇인가</strong></span></summary>
 <hr>
-
+   <p> 힙 heap 영역은 사용자가 직접관리해야만 하는 동적 메모리영역이다 힙영역은 메모리 공간이 동적으로 할당,해제된다 힙 영역은 메모리의 낮은주소부터 할당된다</p>
 <hr>
 </details>
 
