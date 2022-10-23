@@ -813,7 +813,7 @@
 <details>
    <summary><span style="border-bottom:0.05em solid"><strong>Heap Corruption에 대해 설명하시오</strong></span></summary>
 <hr>
-
+malloc이나 new로 할당한 메모리의 영역보다 더 큰 영역에 접근하고자 했기 때문이다.
 <hr>
 </details>
 
