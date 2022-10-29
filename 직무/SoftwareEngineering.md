@@ -170,7 +170,15 @@
 <details>
    <summary><span style="border-bottom:0.05em solid"><strong>인터페이스는 주로 언제 사용하나요?</strong></span></summary>
 <hr>
+<li>추상메소드와 변수로만 이루어짐</li>
 
+인터페이스(interface)란 다른 클래스를 작성할 때 기본이 되는 틀을 제공하면서, 다른 클래스 사이의 중간 매개 역할까지 담당하는 일종의 추상 클래스
+<ul>
+      <li>인스턴스 생성 불가능</li>
+   </ul>
+   <ul>
+      <li>서브 클래스가 기능을 구현하도록 책임을 위임함</li>
+   </ul>
 <hr>
 </details>
 
