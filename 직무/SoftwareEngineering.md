@@ -444,7 +444,19 @@
 <details>
    <summary><span style="border-bottom:0.05em solid"><strong>char type과 string type으로 나뉘어져 있는 이유는 무엇인가요?</strong></span></summary>
 <hr>
+      String 클래스는 char 배열에 메서드 추가
 
+ 
+
+      char 내용물 제한 , String은 제한없이 담을수 있음
+
+ 
+
+      char 변수값 가지고 좌표 가지지 않음 
+
+ 
+
+      String은 char과는 달리 클래스타입 변수이기에 좌표를 내용물로 가짐
 <hr>
 </details>
 
