@@ -368,12 +368,6 @@
 </details>
 
 
-<details>
-   <summary><span style="border-bottom:0.05em solid"><strong>뷰홀더 패턴이란?</strong></span></summary>
-<hr>
-
-<hr>
-</details>
 
 <p></p>
 <h2>기타</h2>
