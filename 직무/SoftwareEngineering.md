@@ -398,7 +398,7 @@
    <summary><span style="border-bottom:0.05em solid"><strong>애자일 방법론이란?</strong></span></summary>
 <hr>
    <p>반복적인 개발 주기를 통해서 소프트웨어를 개발하는 방법</p>
-   <p>피드백을 받아서 유동적으로 개발함</p>
+   <p>문서를 많이 만들지 않고 코딩을 통해 플젝 관리 및 피드백을 받아서 유동적으로 개발함</p>
 
 <hr>
 </details>
@@ -464,7 +464,7 @@
 <details>
    <summary><span style="border-bottom:0.05em solid"><strong>클린코드란?</strong></span></summary>
 <hr>
-
+ 클린코드는 가독성이 높고 깨끗한 코드를 말합니다. 리팩토링은 프로그램의 외부 동작을 변경하지 않으면서 내부 코드를 정리해 개선하는 것을 말하기 때문에, 클린코드가 리팩토링 안에 포함된다고 할 수 있습니다. 
 <hr>
 </details>
 
@@ -472,14 +472,9 @@
 <details>
    <summary><span style="border-bottom:0.05em solid"><strong>TDD란?</strong></span></summary>
 <hr>
-
+테스트 주도 개발의 장점으로, 철저하게 테스트 주도로 가면 유지보수하기 편한 코드를 짜게 되어 있다는 점과 설계를 고치는 시간이 줄어든다는 것이 있습니다. 단점으로는 규모가 작거나 시간적으로 단기인 프로젝트에서 쓰기에는 생산성 저하와 비효율을 유발
 <hr>
 </details>
 
 
-<details>
-   <summary><span style="border-bottom:0.05em solid"><strong>리눅스 시스템의 i-node에 대해서 설명해 보아라</strong></span></summary>
-<hr>
 
-<hr>
-</details>
