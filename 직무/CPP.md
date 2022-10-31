@@ -32,12 +32,17 @@
 
 
 <details>
-   <summary><strong>C++에서 <code>Virtual</code>은 왜 존재하는가?</strong></summary>
+   <summary><strong>C++에서 <code>Virtual function</code>은 왜 존재하는가?</strong></summary>
    <hr>
 
    오버라이딩을 기대하는 함수에 쓴다.
 
    virtual을 쓰면 런타임에 함수가 매핑이 되는 동적바인딩이 수행된다.
+  C++에서 자식 클래스에서 재정의(오버라이딩)할 것으로 기대하는 멤버 함수를 의미함
+
+멤버 함수 앞에 virtual 키워드를 사용하여 선언함 → 실행시간에 함수의 다형성을 구현할 때 사용
+
+
 
    <hr>
 </details>
